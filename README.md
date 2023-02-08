@@ -1,1 +1,2 @@
 # RTG #2: Titanic
+Second entry of the Road to Grandmaster series. You can check the acompanying blog post [here](https://pacifis.org/rtg2). In this one we worked with the classic [Titanic: Machine learning from disaster](https://www.kaggle.com/competitions/titanic) competition.
